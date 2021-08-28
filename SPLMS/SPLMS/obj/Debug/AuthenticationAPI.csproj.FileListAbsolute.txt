@@ -1,0 +1,522 @@
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+D:\My All Lab Work\Real Work Project\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csprojResolveAssemblyReference.cache
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+E:\Compition Lab Work\4FebImaginCup\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+D:\ImaginCupLab\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csprojResolveAssemblyReference.cache
+G:\Only Role based\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate1.resources
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csprojResolveAssemblyReference.cache
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+C:\Users\IIT\Dropbox\Only Role based\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\csc.exe
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\vbc.exe
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll.config
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\AuthenticationAPI.pdb
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Owin.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\SendGrid.SmtpApi.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\SendGridMail.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Cors.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\EntityFramework.SqlServer.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Cors.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.Jwt.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Newtonsoft.Json.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Net.Http.Formatting.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Cors.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\System.Web.Http.Owin.xml
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\bin\Thinktecture.IdentityModel.Core.pdb
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.dll
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.pdb
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.Migrations.InitialCreate.resources
+F:\Visual Studio 2017\SPLMS\AuthenticationAPI\AuthenticationAPI\obj\Debug\AuthenticationAPI.csproj.GenerateResource.Cache
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\csc.exe
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\System.Collections.Immutable.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\vbc.exe
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\VBCSCompiler.exe
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\roslyn\VBCSCompiler.exe.config
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\AuthenticationAPI.dll.config
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\AuthenticationAPI.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\AuthenticationAPI.pdb
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\EntityFramework.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\EntityFramework.SqlServer.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Cors.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Jwt.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Newtonsoft.Json.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Owin.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\SendGrid.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\SendGrid.SmtpApi.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\SendGridMail.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Net.Http.Formatting.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Cors.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.Cors.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.Owin.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Thinktecture.IdentityModel.Core.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\EntityFramework.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\EntityFramework.SqlServer.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Cors.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Jwt.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Newtonsoft.Json.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Net.Http.Formatting.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.Cors.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\System.Web.Http.Owin.xml
+F:\SPL-master\SPL-master\SPLMS\SPLMS\bin\Thinktecture.IdentityModel.Core.pdb
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.Migrations.initial.resources
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.GenerateResource.cache
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.CoreCompileInputs.cache
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.CopyComplete
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.dll
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.pdb
+F:\SPL-master\SPL-master\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csprojAssemblyReference.cache
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\csc.exe
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\System.Collections.Immutable.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\vbc.exe
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\VBCSCompiler.exe
+F:\SPL\SPL\SPLMS\SPLMS\bin\roslyn\VBCSCompiler.exe.config
+F:\SPL\SPL\SPLMS\SPLMS\bin\AuthenticationAPI.dll.config
+F:\SPL\SPL\SPLMS\SPLMS\bin\AuthenticationAPI.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\AuthenticationAPI.pdb
+F:\SPL\SPL\SPLMS\SPLMS\bin\EntityFramework.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\EntityFramework.SqlServer.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Cors.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Jwt.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Newtonsoft.Json.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Owin.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\SendGrid.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\SendGrid.SmtpApi.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\SendGridMail.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Net.Http.Formatting.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Cors.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.Cors.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.Owin.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\Thinktecture.IdentityModel.Core.dll
+F:\SPL\SPL\SPLMS\SPLMS\bin\EntityFramework.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\EntityFramework.SqlServer.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Cors.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.Jwt.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Newtonsoft.Json.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Net.Http.Formatting.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.Cors.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\System.Web.Http.Owin.xml
+F:\SPL\SPL\SPLMS\SPLMS\bin\Thinktecture.IdentityModel.Core.pdb
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.Migrations.initial.resources
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.GenerateResource.cache
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.CoreCompileInputs.cache
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.csproj.CopyComplete
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.dll
+F:\SPL\SPL\SPLMS\SPLMS\obj\Debug\AuthenticationAPI.pdb

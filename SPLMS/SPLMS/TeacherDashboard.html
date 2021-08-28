@@ -1,0 +1,268 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SPLMS</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Theme CSS -->
+    <link href="css/agency.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" integrity="sha384-0s5Pv64cNZJieYFkXYOTId2HMA2Lfb6q2nAcx2n0RTLUnCAoTTsS0nKEO27XyKcY" crossorigin="anonymous"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" integrity="sha384-ZoaMbDF+4LeFxg6WdScQ9nnR1QC2MIRxA1O9KWEXQwns1G8UNyIEZIQidzb0T1fo" crossorigin="anonymous"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="TeacherDashboard.html">SPLMS</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active" id="homeLinkItem"><a href="#" id="homeLink">Home</a></li>
+                    <li id="uploadDocLinkItem"><a href="#" id="uploadDocLink">Upload Document</a></li>
+                    <li id="groupsLinkItem"><a href="#" id="groupsLink">Groups</a></li>
+                    <li id="createGroupLinkItem"><a href="#" id="createGroupLink">Create Group</a></li>
+                    <li id="academicCalLinkItem"><a href="#" id="academicCalLink">Calendar</a></li>
+                    <li id="feedbackLinkItem"><a href="#" id="feedbackLink">Feedback</a></li>
+                    <li><a href="index.html" id="btnLogout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="container">
+            <div class="intro-text" id="headerDiv">
+                <div class="intro-heading">WELCOME TO</div>
+                <div class="intro-lead-in">SOFTWATE PROJECT LAB MANAGEMENT SYSTEM</div>
+
+            </div>
+            <div class="intro-text hidden" id="uploadDocDiv">
+                <div class="container text-center">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr bgcolor="#404040">
+                                <td>Document Category</td>
+                                <td>
+                                    <form style="color: black">
+                                        <select name="docCategory">
+                                            <option selected="selected">Feedback of draft report</option>
+                                        </select>
+                                    </form>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#666666">
+                                <td>Choose file</td>
+                                <td align="center"><input type="file" class="btn btn-success btn-lg" value="Browse" id="uploadFile" /></td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr bgcolor="#666666">
+                                <td colspan="2"><button class="btn btn-success btn-lg" value="Upload" id="uploadFileBtn">Upload</button></td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                    <div class="modal fade" tabindex="-1" id="successModal"
+                         data-keyboard="false" data-backdrop="static">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="success">Success</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h2>File Upload Successfull</h2>
+
+                                </div>
+                                <div class="modal-footer">
+                                    <a class="btn btn-success" data-dismiss="modal" type="button" href="#">Close</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div id="divErrorFileUpload" class="alert alert-danger collapse">
+                    <a id="linkCloseFileUpload" class="close">&times;</a>
+                    <div id="divErrorTextFileUpload"></div>
+                </div>
+            </div>
+            <div class="intro-text hidden" id="groupsDiv">
+                <div>
+                    <table class="table table-bordered" id="tblData">
+                        <thead bgcolor="#404040">
+                            <tr>
+                                <td>Group Name</td>
+                                <td>Course Code</td>
+                                <td>Project</td>
+                                <td>Supervisor</td>
+                                <td>Year</td>
+                            </tr>
+                        </thead>
+                        <tbody id="tblBody"></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="intro-text hidden" id="createGroupDiv">
+                <div class="row content">
+                    <table class="table table-bordered">
+                        <thead bgcolor="#404040">
+                            <tr>
+                                <td>Group Name</td>
+                                <td>Course Code</td>
+                                <td>Project Topic</td>
+                                <td>Supervisor</td>
+                                <td>Year</td>
+                                <td>Students</td>
+                            </tr>
+                        </thead>
+                        <tbody bgcolor="#666666" style="color: black">
+                            <tr>
+                                <td><form><input type="text" id="groupName" /></form></td>
+                                <td><form><input type="text" id="courseCode" /></form></td>
+                                <td><form><input type="text" id="projectTopic" /></form></td>
+                                <td><form><input type="text" id="supervisor" /></form></td>
+                                <td><form><input type="text" id="year" /></form></td>
+                                <td><form><input type="text" id="std1" /></form><form><input type="text" id="std2" /></form></td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr bgcolor="#666666">
+                                <td colspan="6" class="text-center"><button class="btn btn-lg btn-success" id="createGroup">Create</button></td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+            <div class="intro-text hidden" id="feedbackDiv">
+                <div class="row content">
+                    <table class="table table-bordered" id="feedbackTableData">
+                        <thead bgcolor="#404040">
+                            <tr>
+                                <td>Group Id</td>
+                                <td>Teacher Id</td>
+                                <td>Feedbacks</td>
+                            </tr>
+                        </thead>
+                        <tbody bgcolor="#666666" style="color: black" id="feedbackTableBody"></tbody>
+
+                    </table>
+                    <table class="table table-bordered" bgcolor="#000">
+                        <thead>
+                            <tr>
+                                <td>Group Name</td>
+                                <td>Course Code</td>
+                                <td>Feedbacks</td>
+                            </tr>
+                        </thead>
+                        <tbody bgcolor="#666666" style="color: black">
+                            <tr>
+                                <td><form><input type="text" id="feedbackgroupName" /></form></td>
+                                <td><form><input type="text" id="feedbackCourseCode" /></form></td>
+                                <td>
+                                    <form>
+                                        <textarea id="feedbacks"></textarea>
+                                    </form>
+                                </td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="3"><button class="btn btn-success btn-lg" id="feedbackBtn">Give Feedback</button></td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+            <div class="intro-text hidden success" id="academicCalDiv">
+                <div>
+                    <table class="table" id="calendarTableData">
+                        <thead bgcolor="#404040">
+                            <tr>
+                                <td>Course Code</td>
+                                <td>Year</td>
+                                <td>Proposal Date</td>
+                                <td>Midterm Date</td>
+                                <td>Draft Report Submission</td>
+                                <td>Final Report Submission</td>
+                                <td>Final Presentation</td>
+                            </tr>
+                        </thead>
+                        <tbody bgcolor="#666666" style="color: black" id="calendarTableBody">
+                            
+                        </tbody>
+                    </table>
+                </div>
+                
+            </div>
+        </div>
+
+    </header>
+
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <span class="copyright">Copyright &copy; 2021</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/agency.min.js"></script>
+    <script src="teacherPage.js"></script>
+
+</body>
+
+</html>
+
